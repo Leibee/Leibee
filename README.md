@@ -12,7 +12,3 @@ With 9 years of development experience, I mainly specialise in building and I ha
 [Website](https://leibytedev.github.io)<br>
 [Discord Profile](https://discord.com/users/486958791137689601)<br>
 [Polytoria Profile](https://polytoria.com/u/Leibyte)<br>
-
-<br>
-
-> <i>If you would like to view some of my former development work, visit my [creator page](https://create.roblox.com/talent/creators/233133939) on the Roblox Talent Hub.<i>
