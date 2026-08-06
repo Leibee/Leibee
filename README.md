@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I am Leibyte!
 
-<strong>I am a technology/IT enthusiast and an experienced former ROBLOX developer.</strong><br>
+<strong>I am a technology/IT enthusiast and an experienced former Roblox developer.</strong><br>
 
 With 9 years of development experience, I mainly specialise in building and I have a small amount of experience in scripting in Luau.
 
