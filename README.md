@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/e22bc3a0-87f4-4ae4-8257-0eaf6a68aa6f" alt="Leibyte's Rec Room avatar cropped with signature wordmark" width="300">
+<img src="https://github.com/user-attachments/assets/e22bc3a0-87f4-4ae4-8257-0eaf6a68aa6f" alt="Leibyte's signature wordmark" width="300">
 
 # 👋 Hello, I am Leibyte!
 
