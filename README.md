@@ -10,6 +10,6 @@ With 9 years of development experience, I mainly specialise in building and I ha
 
 > ### 🔗 [Website](https://leibytedev.github.io)
 
-<br><br>
+<br>
 
-<img width="500" alt="EGS ED Label" src="https://github.com/user-attachments/assets/f7e05283-0572-4b45-8b42-5d2da80da68a" />
+<img width="350" alt="EGS ED Label" src="https://github.com/user-attachments/assets/f7e05283-0572-4b45-8b42-5d2da80da68a" />
