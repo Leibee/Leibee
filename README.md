@@ -4,7 +4,7 @@
 
 <strong>I am a technology/IT enthusiast and an experienced former Roblox developer.</strong><br>
 
-With 9 years of development experience, I mainly specialise in building and I have a small amount of experience in scripting in Luau.
+With 9 years of development experience, I mainly specialise in building with a small amount of experience scripting in Luau.
 
 <br>
 
